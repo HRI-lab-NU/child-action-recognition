@@ -1,0 +1,2 @@
+# child-action-recognition
+This repository contains our child-centered action recognition dataset in RGB and RGB-D Data. We collected and annotated a dataset of 200 primary school children aged 6 to 11 years old. Each child was asked to perform seven actions in total in front of Kinect depth camera and a standard RGB camera: walking from side to side, jogging, running, boxing, waving, clapping, and walking towards to the camera. 
